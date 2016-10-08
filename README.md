@@ -96,7 +96,7 @@ This endpoint allows you to fetch a list of reported scammer numbers.
 
 This endpoint allows you to report other scammer numbers for review.
 
-`PUT https://api.collectivedev.com/report/:id`
+`PUT https://api.collectivedev.com/numbers/report/:id`
 ```json
 {
     "status": {
