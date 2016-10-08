@@ -72,7 +72,7 @@ Be sure to format the body correctly or you will get:
 
 This endpoint allows you to fetch a list of reported scammer numbers.
 
-`GET https://api.collectivedev.com/report/`
+`GET https://api.collectivedev.com/numbers/report/`
 ```json
 {
     "status": {
